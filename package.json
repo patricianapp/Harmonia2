@@ -1,7 +1,7 @@
 {
-  "name": "discord-bot-2021",
-  "version": "1.0.0",
-  "description": "Node.js Discord bot template. Uses TypeScript, Discord-Akairo, Prisma, Postgres.",
+  "name": "harmonia",
+  "version": "0.0.1",
+  "description": "A music-focused Discord bot with Last.fm features, song sharing/voting, and (planned for future) audio streaming.",
   "main": "index.js",
   "scripts": {
     "build": "npm run lint && tsc",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FOSSforlife/discord-bot-2021.git"
+    "url": "git+https://github.com/patricianapp/Harmonia2.git"
   },
   "author": "Elias Jackson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FOSSforlife/discord-bot-2021/issues"
+    "url": "https://github.com/patricianapp/Harmonia2/issues"
   },
-  "homepage": "https://github.com/FOSSforlife/discord-bot-2021#readme",
+  "homepage": "https://github.com/patricianapp/Harmonia2#readme",
   "dependencies": {
     "@prisma/client": "^2.15.0",
     "discord-akairo": "^8.1.0",
